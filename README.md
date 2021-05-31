@@ -1,4 +1,4 @@
-### Hi there 👋
+### एक महान मूर्ख
 
 <!--
 **geekodour/geekodour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
