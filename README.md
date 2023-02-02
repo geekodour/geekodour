@@ -1,6 +1,13 @@
 ## Greetings from India! 🇮🇳
 My absolute description: एक महान मूर्ख
 
+-   [homepage](https://geekodour.org) : My homepage
+-   [mogoz](https://mogoz.geekodour.org) : The wiki, some people call it digital garden, evergreen notes etc.
+-   [diary](https://diary.geekodour.org) : The public journal and travel diary
+-   [todayi](https://ti.geekodour.org) : The place to keep my TILs and TIFUs.
+-   [blog](https://blog.geekodour.org) : The blog
+
+
 <!--
 **geekodour/geekodour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
