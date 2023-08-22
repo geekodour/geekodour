@@ -1,4 +1,4 @@
-## Greetings from India! 🇮🇳
+## Greetings!
 My absolute description: एक महान मूर्ख
 
 -   [homepage](https://geekodour.org) : My homepage
